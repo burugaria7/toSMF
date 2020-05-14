@@ -1,0 +1,6 @@
+﻿  toSMF.cpp
+C:\Users\Retasu\Documents\Github\toSMF\toSMF\toSMF.cpp(79,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\Retasu\Documents\Github\toSMF\toSMF\toSMF.cpp(82,40): warning C4244: '引数': 'double' から 'long' への変換です。データが失われる可能性があります。
+C:\Users\Retasu\Documents\Github\toSMF\toSMF\toSMF.cpp(86,41): warning C4244: '引数': 'double' から 'long' への変換です。データが失われる可能性があります。
+C:\Users\Retasu\Documents\Github\toSMF\toSMF\toSMF.cpp(59,7): warning C4101: 'event': ローカル変数は 1 度も使われていません。
+  toSMF.vcxproj -> C:\Users\Retasu\Documents\Github\toSMF\Debug\toSMF.exe
